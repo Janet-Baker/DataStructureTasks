@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+# Jetbrains
+.idea
+
+# Visual Studio
+.vs
+
+# CMake
+cmake-build-debug
+CMakeSettings.json
+out
